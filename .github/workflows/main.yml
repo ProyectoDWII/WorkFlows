@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Dí Hola
-        run: echo "Hello Word"
+        run: echo "Hello Jesus Loredo"
