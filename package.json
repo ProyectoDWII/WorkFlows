@@ -2,7 +2,7 @@
   "name": "workflows-proyecto",
   "version": "1.0.0",
   "scripts": {
-    "build": "mkdir -p dist && echo 'Build simulado exitoso' > dist/index.html"
+    "build": "mkdir -p public && echo 'Build simulado exitoso' > public/index.html"
   },
   "dependencies": {}
 }
